@@ -18,6 +18,7 @@
 |  | [2.4 文本规范化]() |[@13241810517](<https://github.com/13241810517>) |
 |  | [2.5 最小编辑距离]() |[@SUNSDp](<https://github.com/SUNSDp>) |
 |  | [2.6 小结]() | [@jiangbinzhe](<https://github.com/jiangbinzhe>) |
+| | [书目和笔记]() | [@jiangbinzhe](<https://github.com/jiangbinzhe>) |
 |  | [练习]() | [@jiangbinzhe](<https://github.com/jiangbinzhe>) |
 | [3.N-gram语言模型](./markdown/3.N-gram语言模型) |    |待定    |
 | [4.朴素贝叶斯和情感分类](./markdown/4.朴素贝叶斯和情感分类) |     |待定 |
